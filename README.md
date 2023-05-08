@@ -1,2 +1,2 @@
 # Engeto-projekt1
-Textová analyzátor
+Textový analyzátor
